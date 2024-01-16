@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Raniandr777
 - 👀 I’m interested in Python, HTML, Javascript and Jazz (IK ya like jazz)
 - 🌱 I’m currently learning Python.
-- 🐈‍⬛ I've got a cat named after the charecter of a videogame.
 - ⚡ Fun fact: I like subnetting
 
 <!---
