@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raniandr777
-- 👀 I’m interested in Python, HTML, Javascript and Jazz (IK ya like jazz)
+- 👀 I’m interested in Python, HTML and Javascript.
 - 🌱 I’m currently learning Python.
-- ⚡ Fun fact: I like subnetting
+- ⚡ I love Jazz and R$B
 
 <!---
 Raniandr777/Raniandr777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
