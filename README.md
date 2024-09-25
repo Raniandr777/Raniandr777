@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Raniandr777
 - 👀 I’m interested in Python, HTML and Javascript.
-- 🌱 I’m currently learning Python.
-- ⚡ I love Jazz and R$B
+- 🌱 Currently taking the Odin Project.
+- ⚡Aspiring Full-Stack developer
 
 <!---
 Raniandr777/Raniandr777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
